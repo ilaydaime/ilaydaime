@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 🤍
 
-<!--
-**ilaydaime/ilaydaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **İlayda Nur İme**, a 3rd-year Computer Engineering student at Istanbul Arel University. I thrive on building efficient technical solutions and managing complex relational databases. My current goal is to combine my software engineering foundations with Frontend and Mobile development to build impactful, user-centric applications.
 
-Here are some ideas to get you started:
+## 💻 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python, C++, Java  
+* **Frontend:** HTML, CSS, JavaScript  
+* **Java GUI:** Swing / JavaFX  
+* **Database:** MySQL  
+* **Experience:** SAP ABAP (Intern)  
+
+## 🎯 I’m currently learning
+* Advancing my knowledge in Mobile Application Development
+* Enhancing my Frontend Development skills (HTML, CSS, JavaScript)
+
+## ✨ I’m looking to collaborate on
+
+* Open Source Software Projects
+* Java-based Desktop Applications
+* Database Design and SQL Optimization
+* Web Development Projects (Frontend)
+
+## 🔗 How to reach me:
+
+* **LinkedIn:** [linkedin.com/in/ilayda-ime-62244a317](https://www.linkedin.com/in/ilayda-ime-62244a317)
+* **GitHub:** https://github.com/ilaydaime
