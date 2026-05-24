@@ -24,5 +24,4 @@ I am **İlayda Nur İme**, a 3rd-year Computer Engineering student at Istanbul A
 ## 🔗 How to reach me:
 
 * **LinkedIn:** [linkedin.com/in/ilayda-ime-62244a317](https://www.linkedin.com/in/ilayda-ime-62244a317)
-* **GitHub:** https://github.com/ilaydaime
 * **Gmail:** ilaydaime34@gmail.com
